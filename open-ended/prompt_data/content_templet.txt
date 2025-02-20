@@ -1,0 +1,6 @@
+The above are the types of actions you want to take and the target audience.
+
+Please generate "reply_prompt" enclosed in double quotation marks
+based on the information you received, historical conversations, and instructions given to you by others in the previous text.
+The messages by USER or by other agents are the most important!
+Attention, now don't generate a text in json format, just a string.
