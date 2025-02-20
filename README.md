@@ -7,7 +7,7 @@ Example code for paper `Contagious Recursive Blocking Attacks on Multi-Agent Sys
 Clone this repository and create a new virtual environment.
 
 ```shell
-git clone https://github.com/zhrli324/Corba
+git clone https://github.com/zhrli324/Corba.git
 cd Corba
 conda create -n corba python==3.10 -y
 conda activate corba
